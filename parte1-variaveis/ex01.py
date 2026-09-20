@@ -1,5 +1,5 @@
 nome = "Seu Nome"
-idade = 17
+idade = 27
 
 print(nome)
 print(idade)

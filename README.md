@@ -1,6 +1,6 @@
 Exercicios Python
 
-Aluno: Mateus Viante Feuser — Sala: DSRA/25 — Grade curricular: Programação de aplicativos
+Aluno: Mateus Viante Feuser — Sala: DSM3/25 — Grade curricular: Programação de aplicativos
 
 Descrição: Nesse repositório contém exercícios de Python que resolvem em sala que consiste em diferentes conceitos da linguagem como variáveis, estruturas condicionais, laços de repetição, funções, listas e outras formas de programação.
 
