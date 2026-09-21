@@ -1,3 +1,5 @@
+## Peça dois números e exiba qual é o maior. Se forem iguais, informe isso.
+
 num1 = float(input("Digite o primeiro número: "))
 num2 = float(input("Digite o segundo número: "))
 
